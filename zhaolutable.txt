@@ -1,0 +1,12 @@
+http://zltable.duapp.com/#/login
+
+登录：
+账：gaojie
+密：123123
+
+测试是否登录
+http://zltable.duapp.com/#/edit/110
+结果：自动到登录
+
+退出
+结果：退出重新登录
